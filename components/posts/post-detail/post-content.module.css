@@ -9,6 +9,11 @@
   padding: var(--size-4);
 }
 
+.content a {
+  color: var(--color-primary-500);
+  text-decoration: none;
+}
+
 .content p {
   color: var(--color-grey-800);
 }
