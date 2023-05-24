@@ -9,7 +9,9 @@
 }
 
 .image {
+  position: relative;
   width: 100%;
+  min-height: 17rem;
   max-height: 20rem;
   overflow: hidden;
 }

@@ -4,7 +4,7 @@ import classes from './posts-grid.module.css';
 const PostsGrid = (props) => {
   const { posts } = props;
   return (
-    <ul>
+    <ul className={classes.grid}>
       {posts.map((post) => (
         <PostItem key={post.slug} post={post} />
       ))}
