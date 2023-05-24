@@ -1,4 +1,4 @@
-import FeatruedPosts from '@/components/homepage/featured-posts/FeatruedPosts';
+import FeatruedPosts from '@/components/homepage/featured-posts/FeaturedPosts';
 import Hero from '@/components/homepage/hero/Hero';
 
 const DUMMY_POSTS = [
